@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **(nothing meanwhile, but do check it out later😇)**
 
-- 👨‍💻 All of my projects are available at [Github only 🙂](Github only 🙂)
+- 👨‍💻 All of my projects are available at [Github only 🙂]
 
 - 💬 Ask me about **React, Express or anything related**
 
