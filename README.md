@@ -5,20 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep-1507" alt="deep-1507" /></a> </p>
 
-- 🔭 I’m currently working on **UnityNest**
+### 👋 Hey there, I'm Deependra Kumar
 
-- 🌱 I’m currently learning **MERN and DSA**
-
-- 👯 I’m looking to collaborate on **(nothing meanwhile, but do check it out later😇)**
-
-- 👨‍💻 All of my projects are available at [Github only 🙂]
-
-- 💬 Ask me about **React, Express or anything related**
-
-- 📫 How to reach me **deependrakumar15072003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CzM2PKucX4ZcRJ24jKboNKFgXJi9mCod/view](https://drive.google.com/file/d/1CzM2PKucX4ZcRJ24jKboNKFgXJi9mCod/view)
-
+- 🔭 Currently building **UnityNest**, a dynamic and impactful project.
+- 🌱 Learning and growing in the **MERN Stack**, **React Native**, **Agentic AI** and **Data Structures & Algorithms**.
+- 👯 Open to collaboration opportunities — feel free to reach out!
+- 👨‍💻 Explore my projects on [GitHub](https://github.com/Deep-1507).
+- 💬 Happy to help with anything related to **React**, **Express**, or **web development**.
+- 📫 Contact: **deependrakumar15072003@gmail.com**
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1CzM2PKucX4ZcRJ24jKboNKFgXJi9mCod/view)
 - ⚡ Fun fact **An optimist sees the glass as half full, a pessimist sees it as half empty, and an engineer sees it as twice as big as it needs to be :)**
 
 <h3 align="left">Connect with me:</h3>
