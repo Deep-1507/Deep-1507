@@ -1,31 +1,244 @@
-<h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-1507&label=Profile%20views&color=0e75b6&style=flat" alt="deep-1507" /> </p>
+<!-- PROFILE HEADER -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep-1507" alt="deep-1507" /></a> </p>
+<div align="center">
 
-### 👋 Hey there, I'm Deependra Kumar
+# 👋 Hi, I'm Deependra Kumar
 
-- 🔭 Currently building **UnityNest**, a dynamic and impactful project.
-- 🌱 Learning and growing in the **MERN Stack**, **React Native**, **Agentic AI** and **Data Structures & Algorithms**.
-- 👯 Open to collaboration opportunities — feel free to reach out!
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/Deep-1507).
-- 💬 Happy to help with anything related to **React**, **Express**, or **web development**.
-- 📫 Contact: **deependrakumar15072003@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1CzM2PKucX4ZcRJ24jKboNKFgXJi9mCod/view)
-- ⚡ Fun fact **An optimist sees the glass as half full, a pessimist sees it as half empty, and an engineer sees it as twice as big as it needs to be :)**
+### Full Stack Developer | MERN Stack | Next.js | AI Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deep-fl1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-fl1507" height="30" width="40" /></a>
+Building scalable web applications, meaningful products, and intelligent solutions.
+
+<a href="https://github.com/Deep-1507">
+  <img src="https://komarev.com/ghpvc/?username=Deep-1507&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/Deep-1507?tab=followers">
+  <img src="https://img.shields.io/github/followers/Deep-1507?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/Deep-1507">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate"/>
+</a>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+## 🚀 About Me
+
+I'm a Full Stack Developer from India passionate about building impactful digital products and solving real-world problems through technology.
+
+- 💻 Experienced in building full-stack applications using **MERN Stack, React.js, Next.js, and Node.js**.
+- 🏗️ Currently building **UnityNest**, a team management application.
+- 🤖 Exploring **Agentic AI, AI integrations, and intelligent automation**.
+- 🌱 Continuously improving my skills in **Data Structures & Algorithms**.
+- 👨‍💻 Founding Intern & Team Lead experience at Aushadh Biotech.
+- 🏆 Part of a hackathon-winning team at Innovenza 2024.
+- 🤝 Open to collaborating on innovative projects and open-source contributions.
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Backend & Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-1507&show_icons=true&locale=en&layout=compact" alt="deep-1507" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep-1507&show_icons=true&locale=en" alt="deep-1507" /></p>
+### Cloud, DevOps & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-1507&" alt="deep-1507" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,git,github,postman,figma" />
+</p>
+
+### AI & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,sklearn,arduino" />
+</p>
+
+---
+
+<!-- EXPERIENCE -->
+
+## 💼 Experience
+
+### Full Stack Developer Intern — RapydLaunch
+- Developing and enhancing full-stack applications using React.js, Next.js, Node.js, Express.js, and MongoDB.
+- Contributing to client projects involving SaaS platforms, AI agents, and business automation.
+- Working on backend APIs, integrations, and scalable application features.
+
+### Founding Intern & Team Lead — Aushadh Biotech
+- Led development efforts for **Docso**, a MERN-stack healthcare platform.
+- Implemented 20+ core features, including doctor registration, appointment booking, availability management, and video consultations.
+- Contributed to payment gateway integration and medicine-ordering workflows.
+- Conducted market research covering 500+ doctors across medical specialties.
+
+### Full Stack Developer Intern — Aushadh Biotech
+- Built and enhanced web application features using the MERN stack.
+- Collaborated with the development team to deliver product features and improve application functionality.
+
+---
+
+<!-- PROJECTS -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ ShopSync
+
+A location-aware marketplace connecting local businesses with customers.
+
+- District and state-based product visibility.
+- Inventory and order management.
+- Enterprise and customer dashboards.
+- JWT authentication and role-based access control.
+
+**Tech:** Next.js, MongoDB, Node.js, Tailwind CSS
+
+[Explore ShopSync](https://shopsync.co.in)
+
+</td>
+<td width="50%">
+
+### 📧 MailPilot
+
+An email management platform designed to simplify email workflows.
+
+- Email management and automation.
+- Real-time communication.
+- Backend integrations and API development.
+
+**Tech:** MERN Stack, IMAP, Socket.IO
+
+[Explore MailPilot](https://mailpilot.co.in)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 Docso
+
+A healthcare platform connecting patients with doctors.
+
+- Doctor registration and discovery.
+- Appointment booking and scheduling.
+- Online video consultations.
+- Payment and medicine-ordering workflows.
+
+**Tech:** MERN Stack, REST APIs
+
+</td>
+<td width="50%">
+
+### 👥 UnityNest
+
+A team management application focused on collaboration and productivity.
+
+- Team-oriented application development.
+- Modern and responsive user interfaces.
+- Full-stack development and API integration.
+
+**Tech:** Next.js, React, Node.js, MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ACHIEVEMENTS -->
+
+## 🏆 Achievements
+
+- 🥇 **Hackathon Winner — Innovenza 2024**  
+  Represented Team Code Commanders and contributed to the team's winning project.
+
+- 🚀 **Founding Intern & Team Lead**  
+  Led development efforts and coordinated team execution at Aushadh Biotech.
+
+- ⚡ **Fast Delivery**  
+  Completed assigned Email Management Tool deliverables in approximately 15–20 days against an estimated four-month timeline.
+
+---
+
+<!-- GITHUB STATS -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deep-1507&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-1507&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Deep-1507&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deep-1507&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/deep-fl1507">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:deependrakumar15072003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Deep-1507">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1CzM2PKucX4ZcRJ24jKboNKFgXJi9mCod/view">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=googledrive" alt="Resume"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "An optimist sees the glass as half full, a pessimist sees it as half empty, and an engineer sees it as twice as big as it needs to be."
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+</div>
