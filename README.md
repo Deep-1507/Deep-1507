@@ -85,11 +85,6 @@ I'm a Full Stack Developer from India passionate about building impactful digita
 - Implemented 20+ core features, including doctor registration, appointment booking, availability management, and video consultations.
 - Contributed to payment gateway integration and medicine-ordering workflows.
 - Conducted market research covering 500+ doctors across medical specialties.
-
-### Full Stack Developer Intern — Aushadh Biotech
-- Built and enhanced web application features using the MERN stack.
-- Collaborated with the development team to deliver product features and improve application functionality.
-
 ---
 
 <!-- PROJECTS -->
